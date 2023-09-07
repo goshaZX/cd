@@ -7,7 +7,7 @@
 ![image](https://github.com/goshaZX/cd/assets/144109250/cc237ffb-5bb3-4883-9d8b-b9e85ace06ea)
 
 ## Формула:
-**a%b=0,1,2...b-1, %8=8 0≤a%b<b**
+$$a%b=0,1,2...b-1, %8=8 0≤a%b<b$$
 
 # Остаточное делиние
 
@@ -18,7 +18,7 @@
 ![image](https://github.com/goshaZX/cd/assets/144109250/cc237ffb-5bb3-4883-9d8b-b9e85ace06ea)
 
 ## Формула:
-**a=b*q+r  a,b,q,r∈Z,b≠0,0≤r<|b|**
+$$a=b*q+r  a,b,q,r∈Z,b≠0,0≤r<|b|$$
 
 
 
